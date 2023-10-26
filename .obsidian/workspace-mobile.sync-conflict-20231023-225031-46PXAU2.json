@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "17b93843df7473f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "294327ef53e0e763",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a331b83a78d06bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian - archive/College/Lectures/Литература/Тест по произведению Господин из Сан-Франциско.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3efb1d1f99940274",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7d985421a965792f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a268a0d54f251dc1",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f1800aed53a5535e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "916a1dfc3d09a095",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "242bc1f251e63573",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "beaf694707035bb9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Obsidian - archive/College/Lectures/Литература/Тест по произведению Господин из Сан-Франциско.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a796910a29ce6cfe",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Obsidian - archive/College/Lectures/Литература/Тест по произведению Господин из Сан-Франциско.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d87c8c575f881a88",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Obsidian - archive/College/Lectures/Литература/Тест по произведению Господин из Сан-Франциско.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "5a331b83a78d06bd",
+  "lastOpenFiles": [
+    "Obsidian - archive/Важные задачи/Задачи на неделю от 04.10.23.md",
+    "Obsidian - archive/College/Lectures/Литература/20.09.23 - Проект Блок.md",
+    "Obsidian - archive/College/Lectures/Иностранный язык/Профессиональная лексика - Контрольная.md",
+    "Obsidian - archive/College/Lectures/Литература/Тест по произведению Господин из Сан-Франциско.md",
+    "Obsidian - archive/Доска.canvas",
+    "Obsidian - archive/College/Lectures/Литература/Литература.md",
+    "Obsidian - archive/College/Lectures/Основы электротехники/02.10.23 - Соединение конденсаторов.md",
+    "Obsidian - archive/College/Lectures/МДК 04.02 Сканирование/04.09.2023 - Устройства ввода изображения.md",
+    "Obsidian - archive/College/Lectures/МДК 05.01 Аппаратное обеспечение/08.09.2023 - Системная плата.md",
+    "Obsidian - archive/College/Lectures/МДК 05.01 Аппаратное обеспечение/06.09.2023 - Поколения ЭВМ.md",
+    "Obsidian - archive/College/Lectures/МДК 04.03 Базы данных/МДК 04.03 Базы данных.md",
+    "Obsidian - archive/College/Lectures/МДК 04.03 Базы данных/05.09.2023 - Базы данных.md",
+    "Obsidian - archive/College/Lectures/МДК 04.02 Сканирование/МДК 04.02 Сканирование.md",
+    "Колледж/Лекции/Литература/Проект Блок/IMG-20230905-WA0007.jpg"
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "96f0ef3f769be1bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "17353e4444dfbfaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db27725670fbf2d8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "College/Materials/Pasted image 20231026171621.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0141134d0ffc75ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0296249b464ca5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9f5d5838788923a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "555ba0eaddce0f99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "727c66331490d7e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.5
+  },
+  "right": {
+    "id": "3175f22e32f62aeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "62e48ed073347d97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8861a5b8734b984c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "College/Materials/Pasted image 20231026171621.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc4431f8707ee9ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "College/Materials/Pasted image 20231026171621.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fff926a3c2d462f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6203c925e05d6a0e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "College/Materials/Pasted image 20231026171621.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "db27725670fbf2d8",
+  "lastOpenFiles": [
+    "College/Lectures/МДК 05.01 Аппаратное обеспечение/25.10.23 Процессоры.md",
+    "College/Materials/Pasted image 20231026171621.png",
+    "College/Materials/Pasted image 20231026165133.png",
+    "College/Materials/Pasted image 20231026165114.png",
+    "College/Materials/Pasted image 20231026165046.png",
+    "College/Lectures/Литература/Анализ Анна Снегина.md",
+    "Важные задачи/Задачи на неделю от 16.10.23.md",
+    "Важные задачи/Задачки.md",
+    "College/Lectures/История/3 революции в России.md",
+    "College/Lectures/История/Мир в начале 20 века; 1 мировая война.md",
+    "Важные задачи/Задачи на неделю от 04.10.23.md",
+    "!Информация по работе!.md",
+    "Колледж.canvas",
+    "College/Lectures/Основы электротехники/22.10.23 - Закон Ома.md",
+    "College/Lectures/Основы электротехники/02.10.23 - Соединение конденсаторов.md",
+    "College/Lectures/Основы электротехники/11.10.23 - Постоянный ток; Электродвижущая сила; Электрическое сопротивление.md",
+    "College/Materials/Изображение WhatsApp 2023-10-20 в 13.54.31_300711d8.jpg",
+    "College/Materials/Изображение WhatsApp 2023-10-20 в 13.54.31_59bd1af6.jpg",
+    "College/Materials/Изображение WhatsApp 2023-10-20 в 13.54.30_23c2ca10.jpg",
+    "College/Materials/Изображение WhatsApp 2023-10-20 в 13.54.29_be33b44e.jpg",
+    "College/Lectures/Основы электротехники/25.09.23 - Электрическое поле. Потенциал. Напряженность поля..md",
+    "College/Materials/Изображение WhatsApp 2023-10-11 в 11.25.07_cfbdb605.jpg",
+    "College/Materials/Изображение WhatsApp 2023-10-11 в 11.25.06_7e8e5d4e.jpg",
+    "College/Lectures/Иностранный язык/06.09.2023 - IT Career Pathways.md",
+    "College/Lectures/Литература/Проект Блок/20.09.23 - Проект Блок.md",
+    "College/Lectures/Литература/Проект Блок/Работа Ивана2.md",
+    "College/Lectures/Литература/Проект Блок/Работа Никиты.md",
+    "College/Lectures/Литература/Проект Блок/Работа Боди.md",
+    "College/Lectures/Литература/Проект Блок/Работа Ивана1.md",
+    "College/Lectures/Литература/Проект Блок",
+    "College/Lectures/Иностранный язык/Профессиональная лексика - Контрольная.md",
+    "College/Lectures/Литература/Тест по произведению Господин из Сан-Франциско.md",
+    "Важные задачи/~syncthing~Задачи на неделю от 04.10.23.md.tmp",
+    "College/Teachers/Зуденкова Наталья Владимировна.md",
+    "College/Teachers/Складова Галина Михайловна.md",
+    "College/Teachers/Шляхова Нина Николаевна.md",
+    "College/Teachers/Редкозубова Ксения Юрьевна.md",
+    "College/Teachers/Малушко Н.А..md",
+    "College/Materials/vpr-spo2021-ma1-var-11179-otvet.pdf",
+    "College/Materials/vpr-spo2021-ma1-var-11179.pdf",
+    "Доска.canvas",
+    "College/Term",
+    "term",
+    "Accounts",
+    "Важные задачи",
+    "Notebook",
+    "College/Materials/~$Блок.pptm"
+  ]
+}

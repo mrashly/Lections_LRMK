@@ -1,0 +1,12 @@
+{
+  "newFileLocation": "root",
+  "attachmentFolderPath": "College/Materials",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 94
+  },
+  "alwaysUpdateLinks": true
+}

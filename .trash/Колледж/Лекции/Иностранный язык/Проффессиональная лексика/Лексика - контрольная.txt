@@ -1,0 +1,59 @@
+Intranet - внутренняя сеть
+
+Date comunications - передача данных
+
+To design - разработка
+
+Local area networks - локальная передача данных
+
+Wide area networks - глобальная сеть
+
+Comunication system - голосовая связь
+
+Voice comunication sustem - голосовая связь
+
+Instalation of the systems - установка системы
+
+Provide meintaments - обеспечение тех обслуживанием
+
+Implemeting computer system - внедрение компьютерных систем
+
+Provide technical assistance - обеспечение тех поддержкой
+
+Large volumes of data - большие обьемы данных
+
+To store data - хранение данных
+
+Manage data - управление информацией
+
+Extract data - извлечение информации
+
+Data integrity - сохранность данных
+
+Design development implementation and maintenance of computer systems - проектирование, разработка и тех. обслуживание ПК
+
+Computer operating systems - ОС ПК
+
+Progranimg lanluage - язык программирования
+
+Software development - разработка ПО
+
+Prograning language design - разработка языков программирования
+
+Enchanced media - средства массовой информации
+
+Digitaly generated - сгенерированный
+
+Digitaly media - цифровая информация
+
+Track transaction - отслеживание транзакции
+
+e-be sinessauction website - аукционный сайт
+
+Perfomance issues - проблемы с производительностью
+
+Speed of uccess - скорость доступа
+
+Approving the content of the site - подтвержденная информация сайта
+
+Site creation and design - создание и дизайн сайта

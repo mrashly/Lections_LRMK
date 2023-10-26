@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"61f93223632a7ae5","type":"file","file":"College/Materials/IMG-20230905-WA0007.jpg","x":-520,"y":-1040,"width":400,"height":300,"color":"5"},
+		{"id":"b8668ac3e30e81b5","type":"text","text":"убэп","x":-920,"y":-740,"width":250,"height":60,"color":"2"},
+		{"id":"3dfb53f62fbc5c8d","type":"file","file":"College/Lectures/Литература/Проект Блок/20.09.23 - Проект Блок.md","x":-520,"y":-680,"width":400,"height":400},
+		{"id":"88c4ee4136223183","type":"text","text":"Сука я заебался нахуй\n","x":-920,"y":-540,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"48f8c3e9fc6dae79","fromNode":"b8668ac3e30e81b5","fromSide":"right","toNode":"61f93223632a7ae5","toSide":"left","color":"2"},
+		{"id":"73aca42d1c2f42c9","fromNode":"61f93223632a7ae5","fromSide":"right","toNode":"3dfb53f62fbc5c8d","toSide":"right"},
+		{"id":"cc10c8cc71410a5c","fromNode":"b8668ac3e30e81b5","fromSide":"right","toNode":"3dfb53f62fbc5c8d","toSide":"left"},
+		{"id":"7c773d808c5c0524","fromNode":"88c4ee4136223183","fromSide":"bottom","toNode":"3dfb53f62fbc5c8d","toSide":"bottom"}
+	]
+}

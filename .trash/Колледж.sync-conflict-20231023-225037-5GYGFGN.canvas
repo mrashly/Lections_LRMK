@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"1b9aba22521dbcdb","type":"file","file":"College/Teachers/Свистельникова Наталья Ивановна.md","x":-1160,"y":-920,"width":400,"height":400},
+		{"id":"d0a052e5d266657d","type":"file","file":"College/Teachers/Малушко Н.А..md","x":-720,"y":-920,"width":400,"height":400},
+		{"id":"2a1a1a0827c5c181","type":"file","file":"College/Teachers/Редкозубова Ксения Юрьевна.md","x":-270,"y":-920,"width":400,"height":400},
+		{"id":"488072bf57f08680","x":200,"y":-920,"width":400,"height":400,"type":"file","file":"College/Teachers/Зуденкова Наталья Владимировна.md"},
+		{"id":"8ca343c2b20f4d18","type":"file","file":"College/Teachers/Шляхова Нина Николаевна.md","x":680,"y":-920,"width":400,"height":400},
+		{"id":"b02904fdcc9e66fa","type":"file","file":"College/Teachers/Складова Галина Михайловна.md","x":1160,"y":-920,"width":400,"height":400},
+		{"id":"54eb590198ebe5dc","type":"text","text":"Колледж","x":40,"y":-1400,"width":250,"height":60},
+		{"id":"72eff77114348e1e","type":"text","text":"Директор","x":40,"y":-1260,"width":250,"height":60},
+		{"id":"14002cf668d9176c","type":"text","text":"Зам Директора ","x":40,"y":-1120,"width":250,"height":50},
+		{"id":"f7dd39f4c4d6235b","x":-1160,"y":-360,"width":400,"height":400,"type":"file","file":"College/Lectures/Высшая математика/Высшая математика.md"},
+		{"id":"671f3f723631d731","x":-720,"y":-360,"width":400,"height":400,"type":"file","file":"College/Lectures/История/История.md"},
+		{"id":"749c84914a3f010b","x":-270,"y":-360,"width":400,"height":400,"type":"file","file":"College/Lectures/Иностранный язык/Иностранный язык.md"},
+		{"id":"ccd715ed7dbeedab","x":200,"y":-120,"width":300,"height":160,"type":"file","file":"College/Lectures/Русский/Русский.md"},
+		{"id":"213b4af9ebeb280d","x":562,"y":120,"width":320,"height":159,"type":"file","file":"College/Lectures/МДК 04.03 Базы данных/МДК 04.03 Базы данных.md"},
+		{"id":"157c717a715d0963","x":722,"y":-120,"width":320,"height":160,"type":"file","file":"College/Lectures/МДК 04.02 Сканирование/МДК 04.02 Сканирование.md"},
+		{"id":"b2a543cceabcde0b","x":922,"y":116,"width":316,"height":163,"type":"file","file":"College/Lectures/МДК 05.01 Аппаратное обеспечение/МДК 05.01 Аппаратное обеспечение.md"},
+		{"id":"42851fbfa3c91d30","x":402,"y":-360,"width":320,"height":160,"type":"file","file":"College/Lectures/Литература/Литература.md"},
+		{"id":"4fbe855cb2c61db1","x":1042,"y":-360,"width":318,"height":160,"type":"file","file":"College/Lectures/Основы электротехники/Основы электроники.md"},
+		{"id":"050cce1c8c9408f1","x":1280,"y":-120,"width":320,"height":160,"type":"file","file":"College/Lectures/Прикладная электроника/Прикладная электроника.md"}
+	],
+	"edges":[
+		{"id":"42965815ec1eb5dc","fromNode":"54eb590198ebe5dc","fromSide":"bottom","toNode":"72eff77114348e1e","toSide":"top"},
+		{"id":"7099ba67b9192161","fromNode":"72eff77114348e1e","fromSide":"bottom","toNode":"14002cf668d9176c","toSide":"top"},
+		{"id":"30a8071f5ccdca43","fromNode":"14002cf668d9176c","fromSide":"left","toNode":"1b9aba22521dbcdb","toSide":"top"},
+		{"id":"011afae5d421b4d8","fromNode":"14002cf668d9176c","fromSide":"left","toNode":"d0a052e5d266657d","toSide":"top"},
+		{"id":"324b32c71fb01e2c","fromNode":"14002cf668d9176c","fromSide":"bottom","toNode":"2a1a1a0827c5c181","toSide":"top"},
+		{"id":"b6b5382afcf6c450","fromNode":"14002cf668d9176c","fromSide":"right","toNode":"8ca343c2b20f4d18","toSide":"top"},
+		{"id":"d8bdc898da79dff6","fromNode":"14002cf668d9176c","fromSide":"right","toNode":"b02904fdcc9e66fa","toSide":"top"},
+		{"id":"f6212e5f49f61031","fromNode":"14002cf668d9176c","fromSide":"bottom","toNode":"488072bf57f08680","toSide":"top"},
+		{"id":"f85a540930e4bfc0","fromNode":"1b9aba22521dbcdb","fromSide":"bottom","toNode":"f7dd39f4c4d6235b","toSide":"top"},
+		{"id":"54e6e524221571e1","fromNode":"d0a052e5d266657d","fromSide":"bottom","toNode":"671f3f723631d731","toSide":"top"},
+		{"id":"c1f0711596d1b6d2","fromNode":"2a1a1a0827c5c181","fromSide":"bottom","toNode":"749c84914a3f010b","toSide":"top"},
+		{"id":"1f541fbb8696b61f","fromNode":"488072bf57f08680","fromSide":"bottom","toNode":"ccd715ed7dbeedab","toSide":"top"},
+		{"id":"3128a5a27d4020db","fromNode":"488072bf57f08680","fromSide":"bottom","toNode":"42851fbfa3c91d30","toSide":"top"},
+		{"id":"52dd10726ce8b7db","fromNode":"8ca343c2b20f4d18","fromSide":"bottom","toNode":"157c717a715d0963","toSide":"top"},
+		{"id":"a147ba81ba143a42","fromNode":"8ca343c2b20f4d18","fromSide":"bottom","toNode":"213b4af9ebeb280d","toSide":"top"},
+		{"id":"2234d86c9d3e89d3","fromNode":"8ca343c2b20f4d18","fromSide":"bottom","toNode":"b2a543cceabcde0b","toSide":"top"},
+		{"id":"5fd6ff9641d12a29","fromNode":"b02904fdcc9e66fa","fromSide":"bottom","toNode":"4fbe855cb2c61db1","toSide":"top"},
+		{"id":"4c74b6b63fcb9ca7","fromNode":"b02904fdcc9e66fa","fromSide":"bottom","toNode":"050cce1c8c9408f1","toSide":"top"}
+	]
+}
