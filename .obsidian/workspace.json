@@ -11,9 +11,11 @@
             "id": "db27725670fbf2d8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "College/Materials/Pasted image 20231026171621.png"
+                "file": "College/Lectures/Прикладная электроника/27.10.23 - Примесная электропроводность.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Materials/Pasted image 20231026171621.png",
+                "file": "College/Lectures/Прикладная электроника/27.10.23 - Примесная электропроводность.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Materials/Pasted image 20231026171621.png",
+                "file": "College/Lectures/Прикладная электроника/27.10.23 - Примесная электропроводность.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Materials/Pasted image 20231026171621.png"
+                "file": "College/Lectures/Прикладная электроника/27.10.23 - Примесная электропроводность.md"
               }
             }
           }
@@ -146,8 +148,14 @@
   },
   "active": "db27725670fbf2d8",
   "lastOpenFiles": [
-    "College/Lectures/МДК 05.01 Аппаратное обеспечение/25.10.23 Процессоры.md",
+    "College/Materials/Изображение WhatsApp 2023-10-27 в 13.40.46_dcc33de7.jpg",
+    "College/Materials/Изображение WhatsApp 2023-10-27 в 13.40.46_26f8c7fa.jpg",
+    "College/Lectures/Прикладная электроника/27.10.23 - Примесная электропроводность.md",
+    "College/Lectures/Прикладная электроника/25.09.23 - Электропроводность полупроводников.md",
+    "College/Lectures/Прикладная электроника/07.09.23 - Основные хар-ки электрорадио-материалов.md",
+    "College/Lectures/Прикладная электроника/02.10.23 - Ток дрейфа. Собственная электронная и дырочная электропроводность.md",
     "College/Materials/Pasted image 20231026171621.png",
+    "College/Lectures/МДК 05.01 Аппаратное обеспечение/25.10.23 Процессоры.md",
     "College/Materials/Pasted image 20231026165133.png",
     "College/Materials/Pasted image 20231026165114.png",
     "College/Materials/Pasted image 20231026165046.png",
@@ -168,7 +176,6 @@
     "College/Materials/Изображение WhatsApp 2023-10-20 в 13.54.29_be33b44e.jpg",
     "College/Lectures/Основы электротехники/25.09.23 - Электрическое поле. Потенциал. Напряженность поля..md",
     "College/Materials/Изображение WhatsApp 2023-10-11 в 11.25.07_cfbdb605.jpg",
-    "College/Materials/Изображение WhatsApp 2023-10-11 в 11.25.06_7e8e5d4e.jpg",
     "College/Lectures/Иностранный язык/06.09.2023 - IT Career Pathways.md",
     "College/Lectures/Литература/Проект Блок/20.09.23 - Проект Блок.md",
     "College/Lectures/Литература/Проект Блок/Работа Ивана2.md",
@@ -180,10 +187,6 @@
     "College/Lectures/Литература/Тест по произведению Господин из Сан-Франциско.md",
     "Важные задачи/~syncthing~Задачи на неделю от 04.10.23.md.tmp",
     "College/Teachers/Зуденкова Наталья Владимировна.md",
-    "College/Teachers/Складова Галина Михайловна.md",
-    "College/Teachers/Шляхова Нина Николаевна.md",
-    "College/Teachers/Редкозубова Ксения Юрьевна.md",
-    "College/Teachers/Малушко Н.А..md",
     "College/Materials/vpr-spo2021-ma1-var-11179-otvet.pdf",
     "College/Materials/vpr-spo2021-ma1-var-11179.pdf",
     "Доска.canvas",
