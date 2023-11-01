@@ -1,6 +1,9 @@
 {
-  "accentColor": "#00ffff",
-  "cssTheme": "Typomagical",
+  "accentColor": "#717f7f",
+  "cssTheme": "Wasp",
   "theme": "obsidian",
-  "baseFontSize": 19
+  "baseFontSize": 19,
+  "interfaceFontFamily": "Ink Free,Miama Nueva",
+  "textFontFamily": "Ink Free,Miama Nueva",
+  "monospaceFontFamily": "Forte"
 }
