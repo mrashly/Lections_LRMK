@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Lectures/Литература/Булгаков - Биография - Мастер и Маргарита - Собачье сердце.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4798101a2844278",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Lectures/Иностранный язык/02.11.2023.md",
+                "file": "College/Lectures/Иностранный язык/08.11.2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Lectures/Литература/Булгаков - Биография - Мастер и Маргарита - Собачье сердце.md",
+                "file": "College/Lectures/Иностранный язык/08.11.2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Lectures/Литература/Булгаков - Биография - Мастер и Маргарита - Собачье сердце.md",
+                "file": "College/Lectures/Иностранный язык/08.11.2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Lectures/Литература/Булгаков - Биография - Мастер и Маргарита - Собачье сердце.md"
+                "file": "College/Lectures/Иностранный язык/08.11.2023.md"
               }
             }
           }
@@ -160,10 +148,12 @@
   },
   "active": "db27725670fbf2d8",
   "lastOpenFiles": [
-    "Без названия.md",
-    "College/Lectures/Литература/Булгаков - Биография - Мастер и Маргарита - Собачье сердце.md",
-    "College/Lectures/Иностранный язык/Степени сравнения прилагательных.md",
     "College/Lectures/Иностранный язык/02.11.2023.md",
+    "College/Lectures/Иностранный язык/08.11.2023.md",
+    "College/Materials/Pasted image 20231108100838.png",
+    "College/Lectures/Иностранный язык/Степени сравнения прилагательных.md",
+    "College/Lectures/Литература/Булгаков - Биография - Мастер и Маргарита - Собачье сердце.md",
+    "Без названия.md",
     "College/Lectures/Литература/Анализ Анна Снегина.md",
     "College/Materials/Pasted image 20231103165835.png",
     "College/Lectures/Основы электротехники/22.10.23 - Закон Ома.md",
@@ -186,7 +176,6 @@
     "College/Lectures/История/Мир в начале 20 века; 1 мировая война.md",
     "College/Lectures/Высшая математика/05.10.23 ОГЭ.md",
     "College/Lectures/Иностранный язык/01.11.2023 UNIT 2.md",
-    "College/Lectures/Прикладная электроника/07.09.23 - Основные хар-ки электрорадио-материалов.md",
     "College/Materials/Изображение WhatsApp 2023-10-27 в 13.40.46_dcc33de7.jpg",
     "College/Materials/Изображение WhatsApp 2023-10-27 в 13.40.46_26f8c7fa.jpg",
     "College/Materials/Pasted image 20231026171621.png",
@@ -196,7 +185,6 @@
     "Колледж.canvas",
     "College/Materials/Изображение WhatsApp 2023-10-20 в 13.54.31_300711d8.jpg",
     "College/Materials/Изображение WhatsApp 2023-10-20 в 13.54.31_59bd1af6.jpg",
-    "College/Materials/Изображение WhatsApp 2023-10-20 в 13.54.30_23c2ca10.jpg",
     "College/Lectures/Литература/Проект Блок",
     "Важные задачи/~syncthing~Задачи на неделю от 04.10.23.md.tmp",
     "College/Materials/vpr-spo2021-ma1-var-11179-otvet.pdf",
