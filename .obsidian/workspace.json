@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Lectures/Иностранный язык/08.11.2023.md",
+                "file": "College/Lectures/История/Зачет.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Lectures/Иностранный язык/08.11.2023.md",
+                "file": "College/Lectures/История/Зачет.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Lectures/Иностранный язык/08.11.2023.md",
+                "file": "College/Lectures/История/Зачет.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Lectures/Иностранный язык/08.11.2023.md"
+                "file": "College/Lectures/История/Зачет.md"
               }
             }
           }
@@ -138,18 +138,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
     }
   },
   "active": "db27725670fbf2d8",
   "lastOpenFiles": [
-    "College/Lectures/Иностранный язык/02.11.2023.md",
+    "College/Lectures/История/Мир в начале 20 века; 1 мировая война.md",
+    "College/Lectures/История/Зачет.md",
     "College/Lectures/Иностранный язык/08.11.2023.md",
+    "College/Lectures/Иностранный язык/02.11.2023.md",
     "College/Materials/Pasted image 20231108100838.png",
     "College/Lectures/Иностранный язык/Степени сравнения прилагательных.md",
     "College/Lectures/Литература/Булгаков - Биография - Мастер и Маргарита - Собачье сердце.md",
@@ -173,9 +175,7 @@
     "College/Lectures/Литература/20.09.23 - Проект Блок.md",
     "College/Lectures/Литература/Тест по произведению Господин из Сан-Франциско.md",
     "College/Lectures/История/3 революции в России.md",
-    "College/Lectures/История/Мир в начале 20 века; 1 мировая война.md",
     "College/Lectures/Высшая математика/05.10.23 ОГЭ.md",
-    "College/Lectures/Иностранный язык/01.11.2023 UNIT 2.md",
     "College/Materials/Изображение WhatsApp 2023-10-27 в 13.40.46_dcc33de7.jpg",
     "College/Materials/Изображение WhatsApp 2023-10-27 в 13.40.46_26f8c7fa.jpg",
     "College/Materials/Pasted image 20231026171621.png",
